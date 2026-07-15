@@ -2,14 +2,14 @@
 
 Client side image editor: upload, crop, adjust brightness / contrast / saturation, apply a filter, undo, export.
 
-Demo: TODO add link after deploy
+Demo: https://liveart-alpha.vercel.app
 
 ## Setup
 
 Node 18+.
 
 ```bash
-git clone TODO add repo url
+git clone https://github.com/G1Lroy/liveart.git
 cd liveart
 npm i
 npm run dev
